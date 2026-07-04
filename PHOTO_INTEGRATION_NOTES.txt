@@ -1,0 +1,3 @@
+Extracted 580 mapped staff photos from IUBAT Employee.pdf.
+Remaining missing records: []
+Mismatched pages (records/images): [(48, 10, 9), (49, 8, 9), (54, 8, 9), (58, 9, 11)]
